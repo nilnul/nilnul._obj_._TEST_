@@ -157,6 +157,8 @@
     <Compile Include="func_\op_\unary_\wai\UnitTest1.cs" />
     <Compile Include="nilnul0\_obj\typ_\nonobj_\UnitTest1.cs" />
     <Compile Include="nilnul0\_obj\typ_\top\UnitTest1.cs" />
+    <Compile Include="nilnul0\_obj\_typ\gener\typof\dyna\UnitTest1.cs" />
+    <Compile Include="nilnul0\_obj\_typ\gener\typof\UnitTest1.cs" />
     <Compile Include="nilnul0\_obj\_typ\gener\UnitTest1 - Copy.cs" />
     <Compile Include="nilnul0\_obj\_typ\gener\UnitTest1.cs" />
     <Compile Include="nulable\UnitTest1.cs" />
